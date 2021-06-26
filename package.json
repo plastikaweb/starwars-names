@@ -1,0 +1,29 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plastikaweb/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Carlos Matheu Armengol <info@plastikaweb.com> (https://www.plastikaweb.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plastikaweb/starwars-names/issues"
+  },
+  "homepage": "https://github.com/plastikaweb/starwars-names#readme",
+  "type": "module",
+  "dependencies": {
+    "esm": "3.2.25",
+    "unique-random-array": "3.0.0"
+  }
+}
